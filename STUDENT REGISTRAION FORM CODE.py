@@ -126,4 +126,4 @@ if submit_btn:
         st.write(f"**Semester:** {semester}")
         st.write(f"**Address:** {address}")
 
-        st.balloons()
+        st.stars()
